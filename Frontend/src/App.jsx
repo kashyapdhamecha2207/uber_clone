@@ -9,6 +9,7 @@ import Home from './pages/Home'
 import UserProtectWrapper from './pages/UserProtectWrapper'
 import UserLogout from './pages/UserLogout'
 import CaptainHome from './pages/CaptainHome'
+import CaptainRiding from './pages/CaptainRiding'
 import Riding from './pages/Riding'
 import 'remixicon/fonts/remixicon.css'
 
